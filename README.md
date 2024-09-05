@@ -10,7 +10,7 @@ O projeto é composto pelos seguintes arquivos:
 - `subtracao.py`: Contém a função de subtração.
 - `multiplicacao.py`: Contém a função de multiplicação.
 - `divisao.py`: Contém a função de divisão, incluindo tratamento para divisão por zero.
-- `main.py`: Arquivo principal que interage com o usuário e utiliza as funções dos outros arquivos.
+- `app.py`: Arquivo principal que interage com o usuário e utiliza as funções dos outros arquivos.
 
 ## Funcionalidades
 
